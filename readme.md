@@ -4,6 +4,12 @@
 2. 坚持学习英语
 3. 坚持锻炼身体
 
+
+文档分类
+
+* [技术](./teach/)
+
+
 文档同步到 [Github](https://github.com/pantingwen/document)
 
 
